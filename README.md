@@ -1,1 +1,1 @@
-link: https://hardcoregamer66.github.io/Beatstreets-Tricky-V2-HTML5-port/
+link: https://HardcoreGamer66.github.io/mpn-nexus-core-mod-in-gh-pages
